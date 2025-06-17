@@ -1,0 +1,37 @@
+# Retro Flappy Bird Game
+
+A simple implementation of the classic Flappy Bird game using Python and Pygame.
+
+## Requirements
+
+- Python 3
+- Pygame
+
+## Installation
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/flappy-bird-python.git
+   cd flappy-bird-python
+   ```
+
+2. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+
+## Running the Game
+
+To start the game, simply run:
+```
+python flappy_bird.py
+```
+
+Use the spacebar to make the bird flap and avoid the pipes!
+
+## Assets
+
+The game uses simple placeholder images for the bird, pipes, and background. You can replace these with your own images by placing them in the `assets` directory with the following filenames:
+- `bird.png`
+- `pipe.png`
+- `background.png`
