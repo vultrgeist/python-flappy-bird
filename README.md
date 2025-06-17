@@ -11,14 +11,21 @@ A simple implementation of the classic Flappy Bird game using Python and Pygame.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/flappy-bird-python.git
-   cd flappy-bird-python
+   clone this repo
+   cd python-flappy-bird
    ```
 
 2. Install the required dependencies:
    ```
    pip install -r requirements.txt
    ```
+
+## Create the assets
+
+To create the assets (in the \assets folder), simply run:
+```
+python create_assets.py
+```
 
 ## Running the Game
 
